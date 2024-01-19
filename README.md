@@ -1,4 +1,4 @@
-<p align="center"> <img width="120px" height="120px "src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"/> </p>
+<p align="center"> <img width="90px" height="90px "src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"/> </p>
 <h1 align="center">Hi 👋, I'm Sumudu Chamika</h1>
 <h3 align="center">Undergraduate Student of University of Sri Jayewardenepura</h3>
 
