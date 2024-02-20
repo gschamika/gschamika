@@ -6,7 +6,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Java, Android Development**
+- 🌱 I’m currently learning **Java, Spring Boot, Android Development**
 
 - 📫 How to reach me **sumuduchamikatcc@gmail.com**
 
