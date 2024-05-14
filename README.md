@@ -40,6 +40,5 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gschamika&show_icons=true&locale=en&layout=compact" alt="gschamika" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gschamika&show_icons=true&locale=en" alt="gschamika" /></p>
