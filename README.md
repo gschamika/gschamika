@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Zzc4azVmbmlrb3dxbjZpZm10ajBwc3FkbWhuZWpteHJkaTN5ZGc1ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OumCa12QC9CIvBe2c1/giphy.gif"  />
+  <img height="200" src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM5MDI0MzEsIm5iZiI6MTc1MzkwMjEzMSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzMwVDE5MDIxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQwMjk5ODYwNDBjYTBkMWE5ZjE1NjhhMDhlMTJmN2JiNmFlNjdmZjFiZjk0M2Q0NmZlM2EyMmEyYjliMDA4YTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.TU40OcSEU39YLa5sI2E7-tCuWYWDsWt9PvR3OHuRzbg"  />
 </div>
 
 <h1 align="center">
@@ -39,31 +39,31 @@
 
 <table align="center">
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=java,spring,cs,net,python,flask,hibernate,nodejs"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=react,angular,bootstrap,js,ts,html,css"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=mysql,mongodb"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,jenkins"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=idea,pycharm,vscode,visualstudio"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,linux"/></td>
     </tr>
 </table>
