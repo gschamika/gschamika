@@ -39,7 +39,7 @@
 
 ###
 
-<h3 align="center">🛠 Languages and Tools:</h3>
+<h3 align="center">🛠 Languages and Tools</h3>
 
 <table align="center">
     <tr>
@@ -72,9 +72,7 @@
     </tr>
 </table>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats </h3>
 
 ###
 
