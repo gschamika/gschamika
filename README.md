@@ -2,7 +2,11 @@
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Zzc4azVmbmlrb3dxbjZpZm10ajBwc3FkbWhuZWpteHJkaTN5ZGc1ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/OumCa12QC9CIvBe2c1/giphy.gif"  />
 </div>
 
-###
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Sumudu+Chamika...;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 <div align="center">
   <a href="sumuduchamikatcc@gmail.com" target="_blank">
@@ -19,25 +23,17 @@
   </a>
 </div>
 
-###
+<br/>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=gschamika.gschamika&"  />
 </div>
 
-###
+<h3 align="left">👩‍💻 About Me</h3>
 
-<h1 align="center">Hey there 👋</h1>
+<p align="left">I'm Sumudu Chamika, a passionate and curious intern software engineer with a strong interest in backend technologies, full-stack web development, and machine learning. I love solving real-world problems through code and constantly improving my skills by building projects and learning new tools and frameworks.<br><br> 🏢 Intern Software Engineer at iPay Sri Lanka <br><br> 💻 Currently working on Java, Spring Boot, React, Python, C#, REST APIs, and Full-stack development<br><br>🤖 Exploring Machine Learning and Deep Learning with a focus on real-world applications<br><br>📚 Learning something new every day </p>
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Sumudu Chamika, a passionate and curious intern software engineer with a strong interest in backend technologies, full-stack web development, and machine learning. I love solving real-world problems through code and constantly improving my skills by building projects and learning new tools and frameworks.<br><br> 🏢 Intern Software Engineer at iPay Sri Lanka <br><br> 💻 Currently working on Java, Spring Boot, React, Python, C#, REST APIs, and Full-stack development<br><br>🤖 Exploring Machine Learning and Deep Learning with a focus on real-world applications<br><br>📚 Learning something new every day <br><br>🌱 Open to collaborations on interesting and impactful tech projects<br><br>📫 Reach me at: sumuduchamikatcc@gmail.com<br><br>🔗 Portfolio: https://gschamika.github.io/my-portfolio/</p>
-
-###
+<hr/>
 
 <h3 align="center">🛠 Languages and Tools</h3>
 
@@ -72,9 +68,9 @@
     </tr>
 </table>
 
-<h3 align="center">🔥   My Stats </h3>
+<hr/>
 
-###
+<h3 align="center">🔥 My Stats </h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gschamika&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
