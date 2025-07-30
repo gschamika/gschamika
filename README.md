@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">I'm Sumudu Chamika, a passionate and curious software engineering undergraduate with a strong interest in full-stack development, machine learning, and open-source technologies. I love solving real-world problems through code and constantly improving my skills by building projects and learning new tools and frameworks.<br><br>💻 Currently working on Spring Boot, REST APIs, and Full-stack development<br><br>🤖 Exploring Machine Learning and Deep Learning with a focus on real-world applications<br><br>📚 Learning something new every day<br><br>🎓 Final year student | Intern Software Engineer at iPay<br><br>🌱 Open to collaborations on interesting and impactful tech projects<br><br>📫 Reach me at: sumuduchamikatcc@gmail.com<br><br>🔗 Portfolio: https://gschamika.github.io/my-portfolio/</p>
+<p align="left">I'm Sumudu Chamika, a passionate and curious intern software engineer with a strong interest in backend technologies, full-stack web development, and machine learning. I love solving real-world problems through code and constantly improving my skills by building projects and learning new tools and frameworks.<br><br> 🏢 Intern Software Engineer at iPay Sri Lanka <br><br> 💻 Currently working on Java, Spring Boot, React, Python, C#, REST APIs, and Full-stack development<br><br>🤖 Exploring Machine Learning and Deep Learning with a focus on real-world applications<br><br>📚 Learning something new every day <br><br>🌱 Open to collaborations on interesting and impactful tech projects<br><br>📫 Reach me at: sumuduchamikatcc@gmail.com<br><br>🔗 Portfolio: https://gschamika.github.io/my-portfolio/</p>
 
 ###
 
