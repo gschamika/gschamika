@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM5MDI0MzEsIm5iZiI6MTc1MzkwMjEzMSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzMwVDE5MDIxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQwMjk5ODYwNDBjYTBkMWE5ZjE1NjhhMDhlMTJmN2JiNmFlNjdmZjFiZjk0M2Q0NmZlM2EyMmEyYjliMDA4YTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.TU40OcSEU39YLa5sI2E7-tCuWYWDsWt9PvR3OHuRzbg"  />
+  <img height="200" src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM5MDI0MzEsIm5iZiI6MTc1MzkwMjEzMSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzMwVDE5MDIxMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQwMjk5ODYwNDBjYTBkMWE5ZjE1NjhhMDhlMTJmN2JiNmFlNjdmZjFiZjk0M2Q0NmZlM2EyMmEyYjliMDA4YTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.TU40OcSEU39YLa5sI2E7-tCuWYWDsWt9PvR3OHuRzbg"/>
 </div>
 
 <h1 align="center">
@@ -60,7 +60,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Machine Learning</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=tensorflow,jupyter,colab,keras,anaconda"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=tensorflow,anaconda"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides</td>
