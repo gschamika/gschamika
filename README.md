@@ -68,7 +68,7 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=tensorflow,anaconda"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=idea,pycharm,vscode,visualstudio"/></td>
     </tr>
     <tr>
